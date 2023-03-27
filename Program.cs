@@ -14,7 +14,7 @@ namespace TaxiApp
             Taxi taxi = new Taxi();
 
             //seting nilai properties
-            taxi.DriverName = "Rifqi";
+            taxi.DriverName = "Rizal";
             taxi.OnDuty = true;
             taxi.NumPassenger = 10;
 
